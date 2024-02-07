@@ -302,7 +302,7 @@
         "label": "日付フォーマット"
       },
       "timeFormat": {
-        "label": "時間フォーマット",
+        "label": "時刻フォーマット",
         "twelveHour": "12時間表記",
         "twentyFourHour": "24時間表記"
       }
